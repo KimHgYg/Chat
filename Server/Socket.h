@@ -18,7 +18,6 @@ using namespace std;
 #define BUF_SIZE 4096
 #define QUEUE_SIZE 10
 
-
-void ErrorHandling(string message);
+int createServer_socket();
 
 #endif
